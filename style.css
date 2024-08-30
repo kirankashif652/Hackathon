@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.span{
+    background-color: rgb(78, 235, 78);
+}
+
+.image{
+    margin-left: 130px;
+}
+
+.card2{
+    background-color:  rgb(78, 235, 78);
+}
+
+.span2{
+    background-color: white;
+}
+
+.main{
+    background-color: rgb(78, 235, 78);
+}
+.card1{
+    margin-left: 200px;
+  width: 900px;
+}
